@@ -26,6 +26,11 @@ PUSHER_SCHEME=
     npm run serve
 ```
 
+## Must need to run
+```shell
+    npm run queue:work
+```
+
 ## open app 
 ```shell
     http://localhost:8000
